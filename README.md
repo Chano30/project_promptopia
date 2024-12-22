@@ -1,13 +1,11 @@
 # 🤖 Introduction
-Develop a Next.js application that highlights the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+Developed a Next.js application that highlights the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
 
 ## ⚙️ Tech Stack
-Next.js
-MongoDB
-NextAuth
-TailwindCSS
+- Next.js
+- MongoDB
+- NextAuth
+- TailwindCSS
 
 ## 🔋 Features
 👉 Modern Design with Glassmorphism Trend Style: A modern and visually appealing design, incorporating the glassmorphism trend style for a sleek and contemporary appearance.
@@ -26,9 +24,7 @@ TailwindCSS
 
 👉 Google Authentication using NextAuth: Enable secure Google authentication using NextAuth, ensuring a streamlined and trustworthy login experience.
 
-👉 Responsive Website: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones
-
-and many more, including code architecture and reusability
+👉 Responsive Website: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones and many more, including code architecture and reusability
 
 ## 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
@@ -40,7 +36,7 @@ Make sure you have the following installed on your machine:
 - Git
 - Node.js
 - npm (Node Package Manager)
-- 
+
 #### Cloning the Repository
 ```bash
 git clone https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing.git
