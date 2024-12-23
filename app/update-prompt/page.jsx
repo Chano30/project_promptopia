@@ -6,13 +6,13 @@ import Form from '@components/Form'
 
 const CreatePrompt = () => {
   const router = useRouter();
-  const searchParams = useSearchParams()
+  const searchParams = useSearchParams();
   const [submitting, setSubmitting] = useState(false);
   const [post, setPost] = useState({
     prompt: '',
     tag: ''
   })
-  const promptId = searchParams.get('id');
+  const promptId = searchParams.get("id");
 
   useEffect(() => {
     const getPromptDetails = async () => {
